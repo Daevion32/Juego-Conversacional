@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color:yellowgreen;
+    font-family:monospace;
+}
+#description{
+    display:block;
+    border:2px solid white;
+    width: 80vw;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:20px;
+    border-style: double;
+}
+#commands{ 
+    display: block;
+    margin:auto;
+    margin-top: 20px;
+    background-color: inherit;
+    color:inherit;
+    padding: 5px;
+    font-family: inherit;
+}
+label{
+    display:block;
+    margin:20px Auto;
+    width: 80vw;
+    text-align: center;
+    padding: 20px;
+
+}
+#button{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: inherit;
+    color:inherit;
+    font-family: inherit;
+    border:2px solid lightgreen;
+    border-radius:20px;
+}
