@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color:yellowgreen;
+    color:green;
     font-family:monospace;
 }
 #description{
@@ -30,7 +30,7 @@ label{
     padding: 20px;
 
 }
-#button{
+#do{
     display: block;
     margin: auto;
     margin-top: 20px;
@@ -38,6 +38,10 @@ label{
     background-color: inherit;
     color:inherit;
     font-family: inherit;
-    border:2px solid lightgreen;
+    border:2px solid green;
     border-radius:20px;
+}
+#do:hover{
+    color:black;
+    background-color: green;
 }
