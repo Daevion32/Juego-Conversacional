@@ -1,17 +1,19 @@
 body{
     background-color: black;
-    color:green;
+    color:yellowgreen;
     font-family:monospace;
 }
 #description{
     display:block;
-    border:2px solid white;
+    border:2px solid yellowgreen;
     width: 80vw;
     margin:auto;
     margin-top: 20px;
     margin-bottom: 20px;
     padding:20px;
     border-style: double;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 #commands{ 
     display: block;
